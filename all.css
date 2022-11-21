@@ -1,0 +1,20 @@
+.html,.css,.js
+{
+    width:302px;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+#p1,#p2,#p3
+{
+    width:300px;
+    background-color: yellow;
+    color:black;
+    margin-bottom: 0px;
+    border:1px solid black;
+
+}
+.container
+{
+    display:inline-block;
+}
